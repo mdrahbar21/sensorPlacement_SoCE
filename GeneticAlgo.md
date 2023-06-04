@@ -1,4 +1,4 @@
-<h1> Genetic Algorithms Presentation Summary </h1>
+<h1> Genetic Algorithms Summary </h1>
 
 
 
